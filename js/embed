@@ -1,0 +1,12 @@
+{
+    "version":"1.0",
+    "provider_name":"Nove",
+    "provider_url":"http:\/\/condordrivingschool.com",
+    "author_name":"atelierdesign",
+    "author_url":"http:\/\/xxx.com\/author\/name\/",
+    "title":"Home",
+    "type":"rich",
+    "width":600,
+    "height":338,
+    "html":"<blockquote class="wp-embedded-content"><a href="index.html">Home<\/a><\/blockquote>"
+}
